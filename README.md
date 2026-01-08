@@ -1,4 +1,4 @@
-# fastAPI-AI-Microservice# FastAPI Task Management Microservice 
+# FastAPI Task Management Microservice 
 
 A high-performance, asynchronous REST API built with **Python 3.12**, **FastAPI**, and **SQLModel**.
 
